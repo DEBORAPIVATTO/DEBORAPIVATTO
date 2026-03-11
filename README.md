@@ -18,17 +18,7 @@ My career combines business expertise, leadership experience, and analytical thi
 
 I specialize in transforming raw data into actionable insights that support strategic decision-making, using tools such as Python, SQL, Tableau, and Power BI.
 
-My background in healthcare provides strong domain knowledge in:
-
-healthcare operations
-
-inventory management
-
-customer behavior
-
-risk analysis
-
-data-driven decision making
+My background in healthcare provides strong domain knowledge in: healthcare operations, inventory management, customer behavior, risk analysis, data-driven decision making.
 
 I am particularly interested in Healthcare Analytics, Business Intelligence, and Product/Data Analytics, and I am open to remote global opportunities.
 
