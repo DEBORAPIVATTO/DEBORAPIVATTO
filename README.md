@@ -47,13 +47,29 @@ I am particularly interested in Healthcare Analytics, Business Intelligence, and
 
 🧠 Core Skills:
 
-• Exploratory Data Analysis (EDA)
-• Data Cleaning and Processing
-• Dashboard Development
-• Insight-Driven Data Visualization
-• Automation with Python
-• SQL for queries, joins, and data manipulation
-• Git & GitHub
+Data Analysis
+Exploratory Data Analysis (EDA)
+Statistical Analysis
+Data Cleaning & Data Wrangling
+Hypothesis Testing
+Predictive Modeling
+
+Data Visualization
+Tableau
+Power BI
+Business Dashboards
+Insight-driven storytelling
+
+Technical Stack
+Python
+SQL
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+Jupyter Notebook
+Git & GitHub
 
 ## 📂 Featured Projects
 
