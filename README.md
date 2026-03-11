@@ -12,11 +12,25 @@
 
 ## 🚀About Me
 
-I am a pharmacist with over 20 years of experience in the health, wellness, and beauty industries — a background that has given me deep insight into human behavior, quality of life, and evidence-based decision-making.
+I am a Data Analyst with a healthcare background and over 20 years of professional experience in the health, wellness, and pharmaceutical industries.
 
-I have worked in both Brazil and Ireland, developing adaptability, multicultural awareness, and the ability to integrate into diverse environments. My professional journey includes more than 10 years of leadership experience, team management, training, procurement, inventory control, and complex problem solving.
+My career combines business expertise, leadership experience, and analytical thinking, which naturally led me to transition into data analytics.
 
-My transition into Data Analytics happened naturally: I have always used data to guide strategic decisions. Today, I focus on Python, SQL, statistical analysis, dashboards, and insight generation, combining my healthcare background with technology to support business decisions — including international remote work.
+I specialize in transforming raw data into actionable insights that support strategic decision-making, using tools such as Python, SQL, Tableau, and Power BI.
+
+My background in healthcare provides strong domain knowledge in:
+
+healthcare operations
+
+inventory management
+
+customer behavior
+
+risk analysis
+
+data-driven decision making
+
+I am particularly interested in Healthcare Analytics, Business Intelligence, and Product/Data Analytics, and I am open to remote global opportunities.
 
 ---
 ## 🎓 Education
@@ -41,7 +55,7 @@ My transition into Data Analytics happened naturally: I have always used data to
   <img src="https://img.shields.io/badge/Dash-119DFF?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-Skills:
+🧠 Core Skills:
 
 • Exploratory Data Analysis (EDA)
 • Data Cleaning and Processing
