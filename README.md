@@ -125,9 +125,9 @@ Technologies: Pandas, NumPy, Matplotlib, Seaborn
 
 🌐 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/deborapivatto/
 
-GitHub: ([ADD YOUR LINK HERE](https://github.com/DEBORAPIVATTO))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborapivatto/)
+- [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/DEBORAPIVATTO)
+- 📫 **E-mail:** deborapivatto@gmail.com  
 
-📫 Email: deborapivatto@gmail.com
 
