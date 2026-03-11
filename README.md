@@ -1,7 +1,7 @@
-# DEBORA-PIVATTO
 #<p align="center">
   <img src="pic.jpg" width="98%" alt="Debora Pivatto – Data Analyst">
 </p>
+
 
 # 👋 Hello, I'm **Debora Pivatto**
 
