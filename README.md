@@ -1,5 +1,5 @@
 #<p align="center">
-  <img src="pic.jpg" width="98%" alt="Debora Pivatto – Data Analyst">
+  <img src="pic (1).jpg" width="98%" alt="Debora Pivatto – Data Analyst">
 </p>
 
 
